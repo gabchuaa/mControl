@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "968334457297",
+    "firebase_url": "https://mcontrol-d5d70.firebaseio.com",
+    "project_id": "mcontrol-d5d70",
+    "storage_bucket": "mcontrol-d5d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968334457297:android:5eaa0f1c62c5d5cb",
+        "android_client_info": {
+          "package_name": "com.example.gabriel.mcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968334457297-907chl7s7ig4rrv5ta2mldr0e02d8p9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabriel.mcontrol",
+            "certificate_hash": "fe9b016ae43e52e88465609bff8ff81873068137"
+          }
+        },
+        {
+          "client_id": "968334457297-94kroa4r8le35jjn85tuqfsk4up620rn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "968334457297-94kroa4r8le35jjn85tuqfsk4up620rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gHCjY_7LXqttA4kFRCmpd6AyxFZ_z-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968334457297-94kroa4r8le35jjn85tuqfsk4up620rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
